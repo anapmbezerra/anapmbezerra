@@ -1,7 +1,7 @@
 Ana Paula Bezerra
 
 🎓 Graduanda em Tecnologia 
-📍 Belém – Brasil
+📍 Belém – Brasil.
 Graduanda na área de Tecnologia, em processo de formação nos fundamentos de programação e lógica computacional. Atualmente desenvolvendo base técnica sólida em Linguagem C, estruturas fundamentais e controle de versionamento.
 Este perfil tem como objetivo registrar minha evolução acadêmica, projetos desenvolvidos e progresso na área.
 Tenho interesse em áreas que integrem tecnologia e criatividade, especialmente:
